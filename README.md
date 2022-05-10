@@ -51,3 +51,5 @@ Graças a essa iniciativa, o TensorFlow cresceu muito em popularidade e utiliza�
 [Demonstrações](https://www.tensorflow.org/js/demos?hl=pt-br)
 
 [Teachable Machine Google](https://www.youtube.com/watch?v=T2qQGqZxkD0&ab_channel=Google)
+
+[Emoji Scavenger Hunt](https://www.youtube.com/watch?v=jr3q_9pJBr8&ab_channel=ExperimentswithGoogle)
