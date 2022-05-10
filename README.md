@@ -1,5 +1,14 @@
 # DW2A2_TensorFlowJS
 
+# **Introdução**
+
+“Uma ferramenta/biblioteca de ponta-ponta desenvolvida pela Google. É uma solução completa de Machine Learning/Deep Learning, Open Source. Ele trabalha não só na parte de aplicações prontas na industria mas também é muito usado em papers de pesquisa, então as principais arquiteturas de rede apresentadas em congresso são criadas usando o TensorFlow. Foi inicialmente desenvolvida para uso interno do Google, mas foi disponibilizada para o público.”
+
+“E por que é tão usado hoje em dia? O deep Learning é uma tecnologia que cresceu muito por conta do Big Data e do grande poder computacional que temos hoje, mas todo o conceito matemático por trás de redes neurais e artificiais, já existia há algumas décadas, mas só hoje em dia que nós temos dados e poder o suficiente pra aplicar e treinar máquinas”
+
+“Um exemplo de aplicações são: Descobrir novos planetas, Detecção de Câncer, Proliferação de partículas e vários outros diagnósticos médicos”
+
+“Um dos maiores pontos fortes da aplicação do TensorFlow é a comunidade que se criou em volta. Como tem muita gente usando, e a comunidade de Dev já é normalmente bem unida nesse sentido, facilita ainda  mais a vida de um Dev que comece a usar a ferramenta”
 # **TensorFlow**
 
 O [TensorFlow](https://www.tensorflow.org/) certamente é a biblioteca mais popular. Quando pesquisamos por este termo no github encontramos cerca de 100 mil repositórios e 1 milhão de commits. Essa biblioteca criada pelo Google é aberta e possibilita controlar todos os aspectos de um sistema de aprendizado de máquina.
@@ -13,16 +22,6 @@ Os recursos para a biblioteca a tornam ainda mais poderosa. O [TensorBoard.dev]
 O [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) é outra parte importante. Essa ferramenta foi projetada para ambientes de produção e permite aos usuários servir os seus modelos com facilidade. Já o [TensorFlow Lite](https://www.tensorflow.org/lite?hl=pt-br) permite que você implemente modelos de machine learning em dispositivos móveis e de Internet das Coisas.
 
 ---
-
-## Podcast
-
-“Uma ferramenta/biblioteca de ponta-ponta desenvolvida pela Google. É uma solução completa de Machine Learning/Deep Learning, Open Source. Ele trabalha não só na parte de aplicações prontas na industria mas também é muito usado em papers de pesquisa, então as principais arquiteturas de rede apresentadas em congresso são criadas usando o TensorFlow. Foi inicialmente desenvolvida para uso interno do Google, mas foi disponibilizada para o público.”
-
-“E por que é tão usado hoje em dia? O deep Learning é uma tecnologia que cresceu muito por conta do Big Data e do grande poder computacional que temos hoje, mas todo o conceito matemático por trás de redes neurais e artificiais, já existia há algumas décadas, mas só hoje em dia que nós temos dados e poder o suficiente pra aplicar e treinar máquinas”
-
-“Um exemplo de aplicações são: Descobrir novos planetas, Detecção de Câncer, Proliferação de partículas e vários outros diagnósticos médicos”
-
-“Um dos maiores pontos fortes da aplicação do TensorFlow é a comunidade que se criou em volta. Como tem muita gente usando, e a comunidade de Dev já é normalmente bem unida nesse sentido, facilita ainda  mais a vida de um Dev que comece a usar a ferramenta”
 
 # Como se utiliza o TensorFlow na prática?
 
@@ -50,3 +49,5 @@ Graças a essa iniciativa, o TensorFlow cresceu muito em popularidade e utiliza�
 
 # Demos
 [Demonstrações](https://www.tensorflow.org/js/demos?hl=pt-br)
+
+[Teachable Machine Google](https://www.youtube.com/watch?v=T2qQGqZxkD0&ab_channel=Google)
