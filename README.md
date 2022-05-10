@@ -27,7 +27,7 @@ O [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) é outra 
 
 ![https://didatica.tech/wp-content/uploads/2019/10/utilizando-o-tensorflow-1024x677.jpg](https://didatica.tech/wp-content/uploads/2019/10/utilizando-o-tensorflow-1024x677.jpg)
 
-Muita gente faz mistério sobre como e onde se utiliza o [TensorFlow](https://www.tensorflow.org/) na prática, mas a verdade é que **não é difícil de começar a trabalhar com TensorFlow**. O primeiro passo é fazer o download da biblioteca TensorFlow para o seu computador. Depois que o TensorFlow está instalado, você pode utilizar uma interface para escrever seus códigos, compilar e obter os resultados. Mas qual interface? Em geral, **as mesmas interfaces utilizadas para programar Python** também servem para programar TensorFlow, como o Jupyter Notebook, Pycharm, etc.
+Muita gente faz mistério sobre como e onde se utiliza o [TensorFlow](https://www.tensorflow.org/) na prática, mas a verdade é que **não é difícil de começar a trabalhar com TensorFlow**. O primeiro passo é fazer o download da biblioteca TensorFlow para o seu computador. Depois que o TensorFlow está instalado, você pode utilizar uma interface para escrever seus códigos, compilar e obter os resultados.
 
 # Como surgiu o TensorFlow? (Um pouco de história)
 
